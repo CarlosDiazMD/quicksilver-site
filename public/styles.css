@@ -710,8 +710,8 @@ body::before {
 
 .footer-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
-  gap: 60px;
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  gap: 48px;
   margin-bottom: 48px;
 }
 
